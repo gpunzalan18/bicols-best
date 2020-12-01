@@ -1,0 +1,517 @@
+[28-Nov-2020 21:52:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/themes/ours-restaurant/inc/ample-themes/widgets/gallery-widgets.php on line 226
+[28-Nov-2020 21:52:46 UTC] PHP Stack trace:
+[28-Nov-2020 21:52:46 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[28-Nov-2020 21:52:46 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[28-Nov-2020 21:52:46 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[28-Nov-2020 21:52:46 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[28-Nov-2020 21:52:46 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[28-Nov-2020 21:52:46 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[28-Nov-2020 21:52:46 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[28-Nov-2020 21:52:46 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[28-Nov-2020 21:52:46 UTC] PHP   9. Ours_Restaurant_Our_Work_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[28-Nov-2020 21:52:46 UTC] PHP  10. Ours_Restaurant_Our_Work_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[28-Nov-2020 21:52:46 UTC] PHP  11. in_array() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/themes/ours-restaurant/inc/ample-themes/widgets/gallery-widgets.php:226
+[29-Nov-2020 00:14:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:14:21 UTC] PHP Stack trace:
+[29-Nov-2020 00:14:21 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:14:21 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:14:21 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:14:21 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:14:21 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:14:21 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:14:21 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:14:21 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:14:21 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:14:21 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:14:21 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:14:21 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:14:21 UTC] PHP Stack trace:
+[29-Nov-2020 00:14:21 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:14:21 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:14:21 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:14:21 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:14:21 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:14:21 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:14:21 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:14:21 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:14:21 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:14:21 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:14:21 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 00:14:30 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:14:30 UTC] PHP Stack trace:
+[29-Nov-2020 00:14:30 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:14:30 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:14:30 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:14:30 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:14:30 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:14:30 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:14:30 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:14:30 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:14:30 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:14:30 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:14:30 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:14:30 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:14:30 UTC] PHP Stack trace:
+[29-Nov-2020 00:14:30 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:14:30 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:14:30 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:14:30 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:14:30 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:14:30 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:14:30 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:14:30 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:14:30 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:14:30 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:14:30 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 00:14:47 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:14:47 UTC] PHP Stack trace:
+[29-Nov-2020 00:14:47 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:14:47 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:14:47 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:14:47 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:14:47 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:14:47 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:14:47 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:14:47 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:14:47 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:14:47 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:14:47 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:14:47 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:14:47 UTC] PHP Stack trace:
+[29-Nov-2020 00:14:47 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:14:47 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:14:47 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:14:47 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:14:47 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:14:47 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:14:47 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:14:47 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:14:47 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:14:47 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:14:47 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 00:15:22 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:15:22 UTC] PHP Stack trace:
+[29-Nov-2020 00:15:22 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:15:22 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:15:22 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:15:22 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:15:22 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:15:22 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:15:22 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:15:22 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:15:22 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:15:22 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:15:22 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:15:22 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:15:22 UTC] PHP Stack trace:
+[29-Nov-2020 00:15:22 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:15:22 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:15:22 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:15:22 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:15:22 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:15:22 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:15:22 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:15:22 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:15:22 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:15:22 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:15:22 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 00:16:32 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:16:32 UTC] PHP Stack trace:
+[29-Nov-2020 00:16:32 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:16:32 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:16:32 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:16:32 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:16:32 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:16:32 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:16:32 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:16:32 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:16:32 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:16:32 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:16:32 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:16:32 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:16:32 UTC] PHP Stack trace:
+[29-Nov-2020 00:16:32 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:16:32 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:16:32 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:16:32 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:16:32 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:16:32 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:16:32 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:16:32 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:16:32 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:16:32 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:16:32 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 00:16:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:16:40 UTC] PHP Stack trace:
+[29-Nov-2020 00:16:40 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:16:40 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:16:40 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:16:40 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:16:40 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:16:40 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:16:40 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:16:40 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:16:40 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:16:40 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:16:40 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:16:40 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:16:40 UTC] PHP Stack trace:
+[29-Nov-2020 00:16:40 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:16:40 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:16:40 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:16:40 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:16:40 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:16:40 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:16:40 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:16:40 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:16:40 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:16:40 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:16:40 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 00:18:37 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:18:37 UTC] PHP Stack trace:
+[29-Nov-2020 00:18:37 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:18:37 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:18:37 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:18:37 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:18:37 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:18:37 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:18:37 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:18:37 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:18:37 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:18:37 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:18:37 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:18:37 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:18:37 UTC] PHP Stack trace:
+[29-Nov-2020 00:18:37 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:18:37 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:18:37 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:18:37 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:18:37 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:18:37 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:18:37 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:18:37 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:18:37 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:18:37 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:18:37 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 00:19:43 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:19:43 UTC] PHP Stack trace:
+[29-Nov-2020 00:19:43 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:19:43 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:19:43 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:19:43 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:19:43 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:19:43 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:19:43 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:19:43 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:19:43 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:19:43 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:19:43 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:19:43 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:19:43 UTC] PHP Stack trace:
+[29-Nov-2020 00:19:43 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:19:43 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:19:43 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:19:43 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:19:43 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:19:43 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:19:43 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:19:43 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:19:43 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:19:43 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:19:43 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 00:20:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:20:25 UTC] PHP Stack trace:
+[29-Nov-2020 00:20:25 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:20:25 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:20:25 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:20:25 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:20:25 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:20:25 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:20:25 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:20:25 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:20:25 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:20:25 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:20:25 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:20:25 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:20:25 UTC] PHP Stack trace:
+[29-Nov-2020 00:20:25 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:20:25 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:20:25 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:20:25 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:20:25 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:20:25 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:20:25 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:20:25 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:20:25 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:20:25 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:20:25 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 00:21:39 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:21:39 UTC] PHP Stack trace:
+[29-Nov-2020 00:21:39 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:21:39 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:21:39 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:21:39 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:21:39 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:21:39 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:21:39 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:21:39 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:21:39 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:21:39 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:21:39 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:21:39 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:21:39 UTC] PHP Stack trace:
+[29-Nov-2020 00:21:39 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:21:39 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:21:39 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:21:39 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:21:39 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:21:39 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:21:39 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:21:39 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:21:39 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:21:39 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:21:39 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 00:39:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:39:25 UTC] PHP Stack trace:
+[29-Nov-2020 00:39:25 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:39:25 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:39:25 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:39:25 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:39:25 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:39:25 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:39:25 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:39:25 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:39:25 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:39:25 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:39:25 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:39:25 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:39:25 UTC] PHP Stack trace:
+[29-Nov-2020 00:39:25 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:39:25 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:39:25 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:39:25 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:39:25 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:39:25 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:39:25 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:39:25 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:39:25 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:39:25 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:39:25 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 00:41:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 72
+[29-Nov-2020 00:41:17 UTC] PHP Stack trace:
+[29-Nov-2020 00:41:17 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:41:17 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:41:17 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:41:17 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:41:17 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:41:17 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:41:17 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:41:17 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:41:17 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:41:17 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:41:17 UTC] PHP  11. array_push() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:72
+[29-Nov-2020 00:41:17 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php on line 79
+[29-Nov-2020 00:41:17 UTC] PHP Stack trace:
+[29-Nov-2020 00:41:17 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:0
+[29-Nov-2020 00:41:17 UTC] PHP   2. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/customize.php:123
+[29-Nov-2020 00:41:17 UTC] PHP   3. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 00:41:17 UTC] PHP   4. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 00:41:17 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 00:41:17 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:688
+[29-Nov-2020 00:41:17 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:998
+[29-Nov-2020 00:41:17 UTC] PHP   8. wp_widget_control() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-customize-widgets.php:1050
+[29-Nov-2020 00:41:17 UTC] PHP   9. Glf_Mor_Widget->form_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-admin/includes/widgets.php:274
+[29-Nov-2020 00:41:17 UTC] PHP  10. Glf_Mor_Widget->form() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-widget.php:519
+[29-Nov-2020 00:41:17 UTC] PHP  11. sizeof() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/menu-ordering-reservations/includes/class-glf-widget.php:79
+[29-Nov-2020 01:13:36 UTC] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php on line 89
+[29-Nov-2020 01:13:36 UTC] PHP Stack trace:
+[29-Nov-2020 01:13:36 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/index.php:0
+[29-Nov-2020 01:13:36 UTC] PHP   2. require() /Users/grace/Local Sites/bicolsbest/app/public/index.php:17
+[29-Nov-2020 01:13:36 UTC] PHP   3. require_once() /Users/grace/Local Sites/bicolsbest/app/public/wp-blog-header.php:19
+[29-Nov-2020 01:13:36 UTC] PHP   4. include() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/template-loader.php:106
+[29-Nov-2020 01:13:36 UTC] PHP   5. get_template_part() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/themes/catch-foodmania/page.php:24
+[29-Nov-2020 01:13:36 UTC] PHP   6. locate_template() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/general-template.php:204
+[29-Nov-2020 01:13:36 UTC] PHP   7. load_template() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/template.php:676
+[29-Nov-2020 01:13:36 UTC] PHP   8. require() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/template.php:732
+[29-Nov-2020 01:13:36 UTC] PHP   9. the_content() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/themes/catch-foodmania/template-parts/content/content-page.php:32
+[29-Nov-2020 01:13:36 UTC] PHP  10. apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/post-template.php:253
+[29-Nov-2020 01:13:36 UTC] PHP  11. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:206
+[29-Nov-2020 01:13:36 UTC] PHP  12. do_shortcode() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:13:36 UTC] PHP  13. preg_replace_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 01:13:36 UTC] PHP  14. do_shortcode_tag() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 01:13:36 UTC] PHP  15. RP_Shortcodes::fooditem_checkout() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:343
+[29-Nov-2020 01:13:36 UTC] PHP  16. rpress_checkout_form() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/class-rpress-shortcodes.php:101
+[29-Nov-2020 01:13:36 UTC] PHP  17. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/checkout/template.php:46
+[29-Nov-2020 01:13:36 UTC] PHP  18. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 01:13:36 UTC] PHP  19. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 01:13:36 UTC] PHP  20. rpress_payment_mode_select() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:13:36 UTC] PHP  21. rpress_get_enabled_payment_gateways() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/checkout/template.php:677
+[29-Nov-2020 01:13:36 UTC] PHP  22. rpress_is_gateway_active() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php:66
+[29-Nov-2020 01:13:36 UTC] PHP  23. array_key_exists() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php:89
+[29-Nov-2020 01:14:27 UTC] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php on line 89
+[29-Nov-2020 01:14:27 UTC] PHP Stack trace:
+[29-Nov-2020 01:14:27 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/index.php:0
+[29-Nov-2020 01:14:27 UTC] PHP   2. require() /Users/grace/Local Sites/bicolsbest/app/public/index.php:17
+[29-Nov-2020 01:14:27 UTC] PHP   3. require_once() /Users/grace/Local Sites/bicolsbest/app/public/wp-blog-header.php:19
+[29-Nov-2020 01:14:27 UTC] PHP   4. include() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/template-loader.php:106
+[29-Nov-2020 01:14:27 UTC] PHP   5. get_template_part() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/themes/catch-foodmania/page.php:24
+[29-Nov-2020 01:14:27 UTC] PHP   6. locate_template() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/general-template.php:204
+[29-Nov-2020 01:14:27 UTC] PHP   7. load_template() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/template.php:676
+[29-Nov-2020 01:14:27 UTC] PHP   8. require() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/template.php:732
+[29-Nov-2020 01:14:27 UTC] PHP   9. the_content() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/themes/catch-foodmania/template-parts/content/content-page.php:32
+[29-Nov-2020 01:14:27 UTC] PHP  10. apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/post-template.php:253
+[29-Nov-2020 01:14:27 UTC] PHP  11. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:206
+[29-Nov-2020 01:14:27 UTC] PHP  12. do_shortcode() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:14:27 UTC] PHP  13. preg_replace_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 01:14:27 UTC] PHP  14. do_shortcode_tag() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 01:14:27 UTC] PHP  15. RP_Shortcodes::fooditem_checkout() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:343
+[29-Nov-2020 01:14:27 UTC] PHP  16. rpress_checkout_form() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/class-rpress-shortcodes.php:101
+[29-Nov-2020 01:14:27 UTC] PHP  17. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/checkout/template.php:46
+[29-Nov-2020 01:14:27 UTC] PHP  18. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 01:14:27 UTC] PHP  19. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 01:14:27 UTC] PHP  20. rpress_payment_mode_select() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:14:27 UTC] PHP  21. rpress_get_enabled_payment_gateways() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/checkout/template.php:677
+[29-Nov-2020 01:14:27 UTC] PHP  22. rpress_is_gateway_active() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php:66
+[29-Nov-2020 01:14:27 UTC] PHP  23. array_key_exists() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php:89
+[29-Nov-2020 01:14:55 UTC] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php on line 89
+[29-Nov-2020 01:14:55 UTC] PHP Stack trace:
+[29-Nov-2020 01:14:55 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/index.php:0
+[29-Nov-2020 01:14:55 UTC] PHP   2. require() /Users/grace/Local Sites/bicolsbest/app/public/index.php:17
+[29-Nov-2020 01:14:55 UTC] PHP   3. wp() /Users/grace/Local Sites/bicolsbest/app/public/wp-blog-header.php:16
+[29-Nov-2020 01:14:55 UTC] PHP   4. WP->main() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/functions.php:1285
+[29-Nov-2020 01:14:55 UTC] PHP   5. WP->parse_request() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp.php:745
+[29-Nov-2020 01:14:55 UTC] PHP   6. do_action_ref_array() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp.php:388
+[29-Nov-2020 01:14:55 UTC] PHP   7. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:544
+[29-Nov-2020 01:14:55 UTC] PHP   8. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 01:14:55 UTC] PHP   9. rest_api_loaded() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:14:55 UTC] PHP  10. WP_REST_Server->serve_request() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api.php:339
+[29-Nov-2020 01:14:55 UTC] PHP  11. WP_REST_Server->dispatch() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/class-wp-rest-server.php:376
+[29-Nov-2020 01:14:55 UTC] PHP  12. WP_REST_Posts_Controller->get_item() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/class-wp-rest-server.php:1050
+[29-Nov-2020 01:14:55 UTC] PHP  13. WP_REST_Posts_Controller->prepare_item_for_response() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:505
+[29-Nov-2020 01:14:55 UTC] PHP  14. apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1683
+[29-Nov-2020 01:14:55 UTC] PHP  15. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:206
+[29-Nov-2020 01:14:55 UTC] PHP  16. do_shortcode() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:14:55 UTC] PHP  17. preg_replace_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 01:14:55 UTC] PHP  18. do_shortcode_tag() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 01:14:55 UTC] PHP  19. RP_Shortcodes::fooditem_checkout() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:343
+[29-Nov-2020 01:14:55 UTC] PHP  20. rpress_checkout_form() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/class-rpress-shortcodes.php:101
+[29-Nov-2020 01:14:55 UTC] PHP  21. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/checkout/template.php:46
+[29-Nov-2020 01:14:55 UTC] PHP  22. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 01:14:55 UTC] PHP  23. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 01:14:55 UTC] PHP  24. rpress_payment_mode_select() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:14:55 UTC] PHP  25. rpress_get_enabled_payment_gateways() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/checkout/template.php:677
+[29-Nov-2020 01:14:55 UTC] PHP  26. rpress_is_gateway_active() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php:66
+[29-Nov-2020 01:14:55 UTC] PHP  27. array_key_exists() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php:89
+[29-Nov-2020 01:15:02 UTC] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php on line 89
+[29-Nov-2020 01:15:02 UTC] PHP Stack trace:
+[29-Nov-2020 01:15:02 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/index.php:0
+[29-Nov-2020 01:15:02 UTC] PHP   2. require() /Users/grace/Local Sites/bicolsbest/app/public/index.php:17
+[29-Nov-2020 01:15:02 UTC] PHP   3. wp() /Users/grace/Local Sites/bicolsbest/app/public/wp-blog-header.php:16
+[29-Nov-2020 01:15:02 UTC] PHP   4. WP->main() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/functions.php:1285
+[29-Nov-2020 01:15:02 UTC] PHP   5. WP->parse_request() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp.php:745
+[29-Nov-2020 01:15:02 UTC] PHP   6. do_action_ref_array() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp.php:388
+[29-Nov-2020 01:15:02 UTC] PHP   7. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:544
+[29-Nov-2020 01:15:02 UTC] PHP   8. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 01:15:02 UTC] PHP   9. rest_api_loaded() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:15:02 UTC] PHP  10. WP_REST_Server->serve_request() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api.php:339
+[29-Nov-2020 01:15:02 UTC] PHP  11. WP_REST_Server->dispatch() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/class-wp-rest-server.php:376
+[29-Nov-2020 01:15:02 UTC] PHP  12. WP_REST_Autosaves_Controller->create_item() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/class-wp-rest-server.php:1050
+[29-Nov-2020 01:15:02 UTC] PHP  13. WP_REST_Autosaves_Controller->prepare_item_for_response() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:239
+[29-Nov-2020 01:15:02 UTC] PHP  14. WP_REST_Revisions_Controller->prepare_item_for_response() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:406
+[29-Nov-2020 01:15:02 UTC] PHP  15. apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:603
+[29-Nov-2020 01:15:02 UTC] PHP  16. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:206
+[29-Nov-2020 01:15:02 UTC] PHP  17. do_shortcode() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:15:02 UTC] PHP  18. preg_replace_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 01:15:02 UTC] PHP  19. do_shortcode_tag() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 01:15:02 UTC] PHP  20. RP_Shortcodes::fooditem_checkout() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:343
+[29-Nov-2020 01:15:02 UTC] PHP  21. rpress_checkout_form() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/class-rpress-shortcodes.php:101
+[29-Nov-2020 01:15:02 UTC] PHP  22. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/checkout/template.php:46
+[29-Nov-2020 01:15:02 UTC] PHP  23. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 01:15:02 UTC] PHP  24. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 01:15:02 UTC] PHP  25. rpress_payment_mode_select() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:15:02 UTC] PHP  26. rpress_get_enabled_payment_gateways() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/checkout/template.php:677
+[29-Nov-2020 01:15:02 UTC] PHP  27. rpress_is_gateway_active() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php:66
+[29-Nov-2020 01:15:02 UTC] PHP  28. array_key_exists() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php:89
+[29-Nov-2020 01:15:02 UTC] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php on line 89
+[29-Nov-2020 01:15:02 UTC] PHP Stack trace:
+[29-Nov-2020 01:15:02 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/index.php:0
+[29-Nov-2020 01:15:02 UTC] PHP   2. require() /Users/grace/Local Sites/bicolsbest/app/public/index.php:17
+[29-Nov-2020 01:15:02 UTC] PHP   3. require_once() /Users/grace/Local Sites/bicolsbest/app/public/wp-blog-header.php:19
+[29-Nov-2020 01:15:02 UTC] PHP   4. include() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/template-loader.php:106
+[29-Nov-2020 01:15:02 UTC] PHP   5. get_template_part() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/themes/catch-foodmania/page.php:24
+[29-Nov-2020 01:15:02 UTC] PHP   6. locate_template() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/general-template.php:204
+[29-Nov-2020 01:15:02 UTC] PHP   7. load_template() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/template.php:676
+[29-Nov-2020 01:15:02 UTC] PHP   8. require() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/template.php:732
+[29-Nov-2020 01:15:02 UTC] PHP   9. the_content() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/themes/catch-foodmania/template-parts/content/content-page.php:32
+[29-Nov-2020 01:15:02 UTC] PHP  10. apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/post-template.php:253
+[29-Nov-2020 01:15:02 UTC] PHP  11. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:206
+[29-Nov-2020 01:15:02 UTC] PHP  12. do_shortcode() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:15:02 UTC] PHP  13. preg_replace_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 01:15:02 UTC] PHP  14. do_shortcode_tag() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 01:15:02 UTC] PHP  15. RP_Shortcodes::fooditem_checkout() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:343
+[29-Nov-2020 01:15:02 UTC] PHP  16. rpress_checkout_form() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/class-rpress-shortcodes.php:101
+[29-Nov-2020 01:15:02 UTC] PHP  17. do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/checkout/template.php:46
+[29-Nov-2020 01:15:02 UTC] PHP  18. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:478
+[29-Nov-2020 01:15:02 UTC] PHP  19. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 01:15:02 UTC] PHP  20. rpress_payment_mode_select() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 01:15:02 UTC] PHP  21. rpress_get_enabled_payment_gateways() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/checkout/template.php:677
+[29-Nov-2020 01:15:02 UTC] PHP  22. rpress_is_gateway_active() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php:66
+[29-Nov-2020 01:15:02 UTC] PHP  23. array_key_exists() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/gateways/functions.php:89
+[29-Nov-2020 03:43:51 UTC] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/rp-core-functions.php on line 646
+[29-Nov-2020 03:43:51 UTC] PHP Stack trace:
+[29-Nov-2020 03:43:51 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/index.php:0
+[29-Nov-2020 03:43:51 UTC] PHP   2. require() /Users/grace/Local Sites/bicolsbest/app/public/index.php:17
+[29-Nov-2020 03:43:51 UTC] PHP   3. wp() /Users/grace/Local Sites/bicolsbest/app/public/wp-blog-header.php:16
+[29-Nov-2020 03:43:51 UTC] PHP   4. WP->main() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/functions.php:1285
+[29-Nov-2020 03:43:51 UTC] PHP   5. WP->parse_request() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp.php:745
+[29-Nov-2020 03:43:51 UTC] PHP   6. do_action_ref_array() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp.php:388
+[29-Nov-2020 03:43:51 UTC] PHP   7. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:544
+[29-Nov-2020 03:43:51 UTC] PHP   8. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 03:43:51 UTC] PHP   9. rest_api_loaded() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 03:43:51 UTC] PHP  10. WP_REST_Server->serve_request() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api.php:339
+[29-Nov-2020 03:43:51 UTC] PHP  11. WP_REST_Server->dispatch() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/class-wp-rest-server.php:376
+[29-Nov-2020 03:43:51 UTC] PHP  12. WP_REST_Posts_Controller->get_items() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/class-wp-rest-server.php:1050
+[29-Nov-2020 03:43:51 UTC] PHP  13. WP_REST_Posts_Controller->prepare_item_for_response() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:328
+[29-Nov-2020 03:43:51 UTC] PHP  14. apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1683
+[29-Nov-2020 03:43:51 UTC] PHP  15. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:206
+[29-Nov-2020 03:43:51 UTC] PHP  16. do_shortcode() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 03:43:51 UTC] PHP  17. preg_replace_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 03:43:51 UTC] PHP  18. do_shortcode_tag() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 03:43:51 UTC] PHP  19. RP_Shortcodes::rpress_receipt() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:343
+[29-Nov-2020 03:43:51 UTC] PHP  20. rpress_get_template_part() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/class-rpress-shortcodes.php:186
+[29-Nov-2020 03:43:51 UTC] PHP  21. rpress_locate_template() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/template-functions.php:477
+[29-Nov-2020 03:43:51 UTC] PHP  22. load_template() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/template-functions.php:544
+[29-Nov-2020 03:43:51 UTC] PHP  23. require() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/template.php:732
+[29-Nov-2020 03:43:51 UTC] PHP  24. rpress_service_label() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/templates/shortcode-receipt.php:30
+[29-Nov-2020 03:43:51 UTC] PHP  25. array_key_exists() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/rp-core-functions.php:646
+[29-Nov-2020 03:44:36 UTC] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/rp-core-functions.php on line 646
+[29-Nov-2020 03:44:36 UTC] PHP Stack trace:
+[29-Nov-2020 03:44:36 UTC] PHP   1. {main}() /Users/grace/Local Sites/bicolsbest/app/public/index.php:0
+[29-Nov-2020 03:44:36 UTC] PHP   2. require() /Users/grace/Local Sites/bicolsbest/app/public/index.php:17
+[29-Nov-2020 03:44:36 UTC] PHP   3. wp() /Users/grace/Local Sites/bicolsbest/app/public/wp-blog-header.php:16
+[29-Nov-2020 03:44:36 UTC] PHP   4. WP->main() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/functions.php:1285
+[29-Nov-2020 03:44:36 UTC] PHP   5. WP->parse_request() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp.php:745
+[29-Nov-2020 03:44:36 UTC] PHP   6. do_action_ref_array() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp.php:388
+[29-Nov-2020 03:44:36 UTC] PHP   7. WP_Hook->do_action() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:544
+[29-Nov-2020 03:44:36 UTC] PHP   8. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:311
+[29-Nov-2020 03:44:36 UTC] PHP   9. rest_api_loaded() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 03:44:36 UTC] PHP  10. WP_REST_Server->serve_request() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api.php:339
+[29-Nov-2020 03:44:36 UTC] PHP  11. WP_REST_Server->dispatch() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/class-wp-rest-server.php:376
+[29-Nov-2020 03:44:36 UTC] PHP  12. WP_REST_Posts_Controller->get_items() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/class-wp-rest-server.php:1050
+[29-Nov-2020 03:44:36 UTC] PHP  13. WP_REST_Posts_Controller->prepare_item_for_response() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:328
+[29-Nov-2020 03:44:36 UTC] PHP  14. apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1683
+[29-Nov-2020 03:44:36 UTC] PHP  15. WP_Hook->apply_filters() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/plugin.php:206
+[29-Nov-2020 03:44:36 UTC] PHP  16. do_shortcode() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/class-wp-hook.php:287
+[29-Nov-2020 03:44:36 UTC] PHP  17. preg_replace_callback() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 03:44:36 UTC] PHP  18. do_shortcode_tag() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:218
+[29-Nov-2020 03:44:36 UTC] PHP  19. RP_Shortcodes::rpress_receipt() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/shortcodes.php:343
+[29-Nov-2020 03:44:36 UTC] PHP  20. rpress_get_template_part() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/class-rpress-shortcodes.php:186
+[29-Nov-2020 03:44:36 UTC] PHP  21. rpress_locate_template() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/template-functions.php:477
+[29-Nov-2020 03:44:36 UTC] PHP  22. load_template() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/template-functions.php:544
+[29-Nov-2020 03:44:36 UTC] PHP  23. require() /Users/grace/Local Sites/bicolsbest/app/public/wp-includes/template.php:732
+[29-Nov-2020 03:44:36 UTC] PHP  24. rpress_service_label() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/templates/shortcode-receipt.php:30
+[29-Nov-2020 03:44:36 UTC] PHP  25. array_key_exists() /Users/grace/Local Sites/bicolsbest/app/public/wp-content/plugins/restropress/includes/rp-core-functions.php:646
+[30-Nov-2020 20:59:53 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[30-Nov-2020 20:59:53 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[30-Nov-2020 20:59:53 UTC] PHP Fatal error:  Unknown: Failed opening required '/private/var/folders/s9/n2qt_30x31s7300lg43l9j_80000gn/T/AppTranslocation/296441D7-7992-491C-A57C-175DA4891A1C/d/Local.app/Contents/Resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
+[30-Nov-2020 20:59:53 UTC] PHP Fatal error:  Unknown: Failed opening required '/private/var/folders/s9/n2qt_30x31s7300lg43l9j_80000gn/T/AppTranslocation/296441D7-7992-491C-A57C-175DA4891A1C/d/Local.app/Contents/Resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0

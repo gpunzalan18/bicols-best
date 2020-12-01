@@ -1,0 +1,916 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Best Food\n"
+"POT-Creation-Date: 2018-03-30 22:00+0800\n"
+"PO-Revision-Date: 2018-03-30 22:00+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom/best-food-config.php:27
+msgid "Homepage Settings"
+msgstr ""
+
+#: custom/best-food-config.php:28
+msgid "Homepage options for Best Food theme"
+msgstr ""
+
+#: custom/best-food-config.php:34
+msgid "Homepage Layout"
+msgstr ""
+
+#: custom/best-food-config.php:40
+msgid "Slider Section"
+msgstr ""
+
+#: custom/best-food-config.php:42
+msgid "About Section"
+msgstr ""
+
+#: custom/best-food-config.php:43
+msgid "Service Section"
+msgstr ""
+
+#: custom/best-food-config.php:46
+msgid "Woocommerce Section"
+msgstr ""
+
+#: custom/best-food-config.php:47
+msgid "Advantage Section"
+msgstr ""
+
+#: custom/best-food-config.php:48
+msgid "Team Section"
+msgstr ""
+
+#: custom/best-food-config.php:51
+msgid "Fact Section"
+msgstr ""
+
+#: custom/best-food-config.php:52
+msgid "Gallery Section"
+msgstr ""
+
+#: custom/best-food-config.php:53
+msgid "Testimonial Section"
+msgstr ""
+
+#: custom/best-food-config.php:56
+msgid "Client Section"
+msgstr ""
+
+#: custom/best-food-config.php:57
+msgid "News Section"
+msgstr ""
+
+#: custom/best-food-config.php:58
+msgid "Contact Section"
+msgstr ""
+
+#: custom/best-food-config.php:60
+msgid "Blog Section"
+msgstr ""
+
+#: custom/best-food-config.php:61
+msgid "Map Section"
+msgstr ""
+
+#: custom/best-food-config.php:62
+msgid "Footer Tool Section"
+msgstr ""
+
+#: custom/best-food-config.php:77
+msgid "video Background Options"
+msgstr ""
+
+#: custom/best-food-config.php:95
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr ""
+
+#: custom/best-food-config.php:97
+#, php-format
+msgid ""
+"Your homepage is not static page. In order to set up the home page as shown "
+"in the official demo on our website (one page front page with sections), you "
+"will need to set up your front page to use a static page instead of showing "
+"your latest blog posts. Check the %s page for more informations."
+msgstr ""
+
+#: custom/best-food-config.php:97
+msgid "Theme info"
+msgstr ""
+
+#: custom/best-food-config.php:112
+msgid "Homepage Blocks"
+msgstr ""
+
+#: custom/best-food-config.php:114
+msgid "Drag and Drop and enable the homepage blocks."
+msgstr ""
+
+#: custom/best-food-config.php:125
+msgid "Best Food PRO"
+msgstr ""
+
+#: custom/best-food-config.php:126
+msgid ""
+"Available in Best Food PRO: Feature Section, Gallery Section, Service "
+"Section, Facts / Number Section, Our Team Section, Pricing Section, "
+"Testimonials Section, Clients Section,Contact Us Section,Download Section, "
+"Google Map, Custom Colors, Google Fonts, video(include Youtube) Backgrounds, "
+"Animations, Custom Footer Link and much more..."
+msgstr ""
+
+#: custom/best-food-config.php:128
+msgid "Discover Best Food PRO"
+msgstr ""
+
+#: custom/best-food-config.php:138 custom/best-food-config.php:570
+msgid "Main Menu Title"
+msgstr ""
+
+#: custom/best-food-config.php:148
+msgid "Apply background video to this slider"
+msgstr ""
+
+#: custom/best-food-config.php:149
+msgid ""
+"If you enable video background, you need to set the setting \"video "
+"background option\" in the homepage settings"
+msgstr ""
+
+#: custom/best-food-config.php:162
+msgid "Slider"
+msgstr ""
+
+#: custom/best-food-config.php:171 custom/best-food-config.php:1066
+msgid "Select page"
+msgstr ""
+
+#: custom/best-food-config.php:177 custom/best-food-config.php:1586
+msgid "Button Text"
+msgstr ""
+
+#: custom/best-food-config.php:182 custom/best-food-config.php:885
+msgid "URL"
+msgstr ""
+
+#: custom/best-food-config.php:190
+msgid "Slide"
+msgstr ""
+
+#: custom/best-food-config.php:199
+msgid "Slide Time"
+msgstr ""
+
+#: custom/best-food-config.php:212
+msgid "Title Typography"
+msgstr ""
+
+#: custom/best-food-config.php:232
+msgid "Description Typography"
+msgstr ""
+
+#: custom/best-food-config.php:251
+msgid "Slider Button Background Color"
+msgstr ""
+
+#: custom/best-food-config.php:264 custom/best-food-config.php:1637
+msgid "Button Text Typography"
+msgstr ""
+
+#: custom/best-food-config.php:287
+msgid "Choose the type of video you want to use"
+msgstr ""
+
+#: custom/best-food-config.php:289
+msgid "Recommend youtube video"
+msgstr ""
+
+#: custom/best-food-config.php:293
+msgid "youtube"
+msgstr ""
+
+#: custom/best-food-config.php:294
+msgid "Vimeo"
+msgstr ""
+
+#: custom/best-food-config.php:295
+msgid "MP4/WebM/Ogg"
+msgstr ""
+
+#: custom/best-food-config.php:302
+msgid "YouTube Video ID"
+msgstr ""
+
+#: custom/best-food-config.php:320
+msgid "Video Mute"
+msgstr ""
+
+#: custom/best-food-config.php:325 custom/best-food-config.php:347
+#: custom/best-food-config.php:369 custom/best-food-config.php:391
+#: custom/best-food-config.php:413
+msgid "Enable"
+msgstr ""
+
+#: custom/best-food-config.php:326 custom/best-food-config.php:348
+#: custom/best-food-config.php:370 custom/best-food-config.php:392
+#: custom/best-food-config.php:414
+msgid "Disable"
+msgstr ""
+
+#: custom/best-food-config.php:342
+msgid "Video AddRaster"
+msgstr ""
+
+#: custom/best-food-config.php:364
+msgid "Display  Bottom Controls"
+msgstr ""
+
+#: custom/best-food-config.php:386
+msgid "Video Auto Play"
+msgstr ""
+
+#: custom/best-food-config.php:408
+msgid "Video Loop"
+msgstr ""
+
+#: custom/best-food-config.php:430
+msgid "Default Volum"
+msgstr ""
+
+#: custom/best-food-config.php:439
+msgid "Values are between 0 and 100."
+msgstr ""
+
+#: custom/best-food-config.php:454
+msgid "Seeks To"
+msgstr ""
+
+#: custom/best-food-config.php:463
+msgid "Seeks to a specified time in the video ( number of seconds )."
+msgstr ""
+
+#: custom/best-food-config.php:478
+msgid "Video Stop Time"
+msgstr ""
+
+#: custom/best-food-config.php:487
+msgid ""
+"the video will stop at the time you set( number of seconds ). If you set the "
+"loop, the video will play again, 0 means no stop time, the video will play "
+"to the end."
+msgstr ""
+
+#: custom/best-food-config.php:502
+msgid "Video Opacity"
+msgstr ""
+
+#: custom/best-food-config.php:541
+msgid "Section Title"
+msgstr ""
+
+#: custom/best-food-config.php:551
+msgid "Title Iocn"
+msgstr ""
+
+#: custom/best-food-config.php:561
+msgid "Section Description"
+msgstr ""
+
+#: custom/best-food-config.php:582
+msgid "Section Background Image"
+msgstr ""
+
+#: custom/best-food-config.php:594
+msgid "Section Background Color"
+msgstr ""
+
+#: custom/best-food-config.php:605
+msgid "Section Background Opacity"
+msgstr ""
+
+#: custom/best-food-config.php:619
+msgid "Section Padding Control"
+msgstr ""
+
+#: custom/best-food-config.php:634
+msgid "Section Mobile Padding Control"
+msgstr ""
+
+#: custom/best-food-config.php:650
+msgid "Enable Animate"
+msgstr ""
+
+#: custom/best-food-config.php:661
+msgid "Enable Parallax Background"
+msgstr ""
+
+#: custom/best-food-config.php:683
+msgid "Title / Description Typography Setting"
+msgstr ""
+
+#: custom/best-food-config.php:684
+msgid "Enable or disable Title / Description Typography"
+msgstr ""
+
+#: custom/best-food-config.php:694
+msgid " Title Typography"
+msgstr ""
+
+#: custom/best-food-config.php:717
+msgid " Description Typography"
+msgstr ""
+
+#: custom/best-food-config.php:749
+msgid "About Us Content Select"
+msgstr ""
+
+#: custom/best-food-config.php:760
+msgid "About Image"
+msgstr ""
+
+#: custom/best-food-config.php:862
+msgid "Service"
+msgstr ""
+
+#: custom/best-food-config.php:873
+msgid "Service Icon Image"
+msgstr ""
+
+#: custom/best-food-config.php:879
+msgid "Service Icon Hover Image"
+msgstr ""
+
+#: custom/best-food-config.php:891
+msgid "Item Title"
+msgstr ""
+
+#: custom/best-food-config.php:896
+msgid "Item Description"
+msgstr ""
+
+#: custom/best-food-config.php:904
+msgid "Service Item"
+msgstr ""
+
+#: custom/best-food-config.php:912
+msgid "Item Title Typography"
+msgstr ""
+
+#: custom/best-food-config.php:937
+msgid "Displays the number of woocommerce products"
+msgstr ""
+
+#: custom/best-food-config.php:954
+msgid "Menu Information"
+msgstr ""
+
+#: custom/best-food-config.php:965
+msgid "Menu Icon"
+msgstr ""
+
+#: custom/best-food-config.php:973
+msgid "Menu Item"
+msgstr ""
+
+#: custom/best-food-config.php:982
+msgid "Select The Catagories"
+msgstr ""
+
+#: custom/best-food-config.php:983
+msgid ""
+"The following catagories will display on Woocommerce section in the Homepage."
+msgstr ""
+
+#: custom/best-food-config.php:996
+msgid "Content Title Text Typography"
+msgstr ""
+
+#: custom/best-food-config.php:1045 custom/best-food-config.php:1074
+msgid "Advantage"
+msgstr ""
+
+#: custom/best-food-config.php:1082
+msgid "Facts / Number"
+msgstr ""
+
+#: custom/best-food-config.php:1092
+msgid "Facts Icon"
+msgstr ""
+
+#: custom/best-food-config.php:1099
+msgid "Facts Item"
+msgstr ""
+
+#: custom/best-food-config.php:1105
+msgid "Facts Number"
+msgstr ""
+
+#: custom/best-food-config.php:1114
+msgid "Fact Item"
+msgstr ""
+
+#: custom/best-food-config.php:1121 custom/best-food-config.php:1156
+msgid "Gallery"
+msgstr ""
+
+#: custom/best-food-config.php:1132
+msgid "Gallery Name"
+msgstr ""
+
+#: custom/best-food-config.php:1137
+msgid "Gallery Image"
+msgstr ""
+
+#: custom/best-food-config.php:1143
+msgid "Url"
+msgstr ""
+
+#: custom/best-food-config.php:1148 custom/best-food-config.php:1195
+msgid "Description"
+msgstr ""
+
+#: custom/best-food-config.php:1167
+msgid "Testimonials"
+msgstr ""
+
+#: custom/best-food-config.php:1177
+msgid "Customer Avatar"
+msgstr ""
+
+#: custom/best-food-config.php:1183
+msgid "Customer Name"
+msgstr ""
+
+#: custom/best-food-config.php:1189
+msgid "Customer Job"
+msgstr ""
+
+#: custom/best-food-config.php:1203
+msgid "Testimonial Item"
+msgstr ""
+
+#: custom/best-food-config.php:1210
+msgid "Our Clients"
+msgstr ""
+
+#: custom/best-food-config.php:1220
+msgid "Clients Logo"
+msgstr ""
+
+#: custom/best-food-config.php:1226
+msgid "Clients Logo Hover"
+msgstr ""
+
+#: custom/best-food-config.php:1232
+msgid "Clients Name"
+msgstr ""
+
+#: custom/best-food-config.php:1239
+msgid "Clients Website Link"
+msgstr ""
+
+#: custom/best-food-config.php:1248
+msgid "Our Client Item"
+msgstr ""
+
+#: custom/best-food-config.php:1259
+msgid "Number of rotation articles"
+msgstr ""
+
+#: custom/best-food-config.php:1285
+msgid "The following catagories will display on news section in the Homepage."
+msgstr ""
+
+#: custom/best-food-config.php:1297 custom/best-food-config.php:1348
+msgid "Homepage Article Default Feature image"
+msgstr ""
+
+#: custom/best-food-config.php:1308 custom/inc.php:702
+#: custom/section/homepage-about.php:28 custom/section/homepage-about.php:53
+#: custom/section/homepage-news.php:115
+msgid "Read More"
+msgstr ""
+
+#: custom/best-food-config.php:1320
+msgid "Displays the number of articles"
+msgstr ""
+
+#: custom/best-food-config.php:1336
+msgid "The following catagories will display on Blog section in the Homepage."
+msgstr ""
+
+#: custom/best-food-config.php:1361
+msgid "Contact Form 7 Shortcode"
+msgstr ""
+
+#: custom/best-food-config.php:1362
+msgid "Fill in shortcode of \"Contact Form 7\" plugin (or similar plugin)"
+msgstr ""
+
+#: custom/best-food-config.php:1374
+msgid "WP Google Map Shortcode"
+msgstr ""
+
+#: custom/best-food-config.php:1375
+msgid "Fill in shortcode of \"WP Google Maps\" plugin (or similar plugin)"
+msgstr ""
+
+#: custom/best-food-config.php:1386
+msgid "Footer Logo"
+msgstr ""
+
+#: custom/best-food-config.php:1396
+msgid "Tool 1 Description"
+msgstr ""
+
+#: custom/best-food-config.php:1397 custom/section/homepage-tool.php:14
+msgid ""
+"Donec at eui smod nibh, eu bibendum quam. Nullam  non gravida pDonec at eui "
+"smod nibh, eu bibendum quam. Nullam  non gravida peu bibendum quam. Nullam  "
+"non gravida peu bibendum quam. Nullam  non gravida p"
+msgstr ""
+
+#: custom/best-food-config.php:1406
+msgid "Tool 2 Title"
+msgstr ""
+
+#: custom/best-food-config.php:1407 custom/section/homepage-tool.php:16
+msgid "Contact Us"
+msgstr ""
+
+#: custom/best-food-config.php:1415
+msgid "Tool 2 Information"
+msgstr ""
+
+#: custom/best-food-config.php:1420
+#, php-format
+msgid ""
+"Note: <br>Find fontawesome icon: <a href=\"%1$s\" target=\"_blank\">http://"
+"fontawesome.io/icons/</a>, Example: <a href=\"%2$s\" target=\"_blank"
+"\">http://fontawesome.io/examples/</a>"
+msgstr ""
+
+#: custom/best-food-config.php:1426
+msgid "tool 2 Fontawesome Icon"
+msgstr ""
+
+#: custom/best-food-config.php:1431
+msgid "Tool 2 Text"
+msgstr ""
+
+#: custom/best-food-config.php:1438
+msgid "Tool 2 Contact Item"
+msgstr ""
+
+#: custom/best-food-config.php:1445
+msgid "Tool 3 Title"
+msgstr ""
+
+#: custom/best-food-config.php:1446 custom/section/homepage-tool.php:18
+msgid "Opening Hours"
+msgstr ""
+
+#: custom/best-food-config.php:1454
+msgid "Tool 3 Information"
+msgstr ""
+
+#: custom/best-food-config.php:1462 custom/section/homepage-tool.php:64
+msgid "Monday-Friday: 08:00AM - 10:00PM"
+msgstr ""
+
+#: custom/best-food-config.php:1466 custom/section/homepage-tool.php:68
+msgid "Saturday-Sunday: 10:00AM - 11:00PM"
+msgstr ""
+
+#: custom/best-food-config.php:1473
+msgid "Tool 3 Text"
+msgstr ""
+
+#: custom/best-food-config.php:1480
+msgid "Tool 3 Contact Item"
+msgstr ""
+
+#: custom/best-food-config.php:1488
+msgid "Footer Copyriht 2"
+msgstr ""
+
+#: custom/best-food-config.php:1490 footer.php:76
+msgid ""
+"Powered by <a href=\"http://wordpress.org/\">WordPress</a>. Best Food theme "
+"by <a href=\"https://www.coothemes.com/\">CooThemes.com</a>."
+msgstr ""
+
+#: custom/best-food-config.php:1499
+msgid "Facebook Link"
+msgstr ""
+
+#: custom/best-food-config.php:1508
+msgid "Twitter Link"
+msgstr ""
+
+#: custom/best-food-config.php:1517
+msgid "Youtube Link"
+msgstr ""
+
+#: custom/best-food-config.php:1526
+msgid "Pinterest Link"
+msgstr ""
+
+#: custom/best-food-config.php:1535
+msgid "Google Plus Link"
+msgstr ""
+
+#: custom/best-food-config.php:1544
+msgid "Instagram Link"
+msgstr ""
+
+#: custom/best-food-config.php:1596
+msgid "Button URL"
+msgstr ""
+
+#: custom/best-food-config.php:1606
+msgid "Button Background Color"
+msgstr ""
+
+#: custom/best-food-config.php:1621
+msgid "Button Background Opacity"
+msgstr ""
+
+#: custom/best-food-config.php:1654
+msgid "Button Border Radius"
+msgstr ""
+
+#: custom/best-food-config.php:1667
+msgid "Section Button Padding Control"
+msgstr ""
+
+#: custom/customizer-pro/class-customize.php:76
+msgid "Best Food Pro"
+msgstr ""
+
+#: custom/customizer-pro/class-customize.php:78
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: custom/inc.php:151
+msgid "About Us"
+msgstr ""
+
+#: custom/inc.php:164
+msgid "Services We Offer"
+msgstr ""
+
+#: custom/inc.php:165
+msgid ""
+"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere c."
+"Etiam ut dui eVestibulum ante ipsum primi"
+msgstr ""
+
+#: custom/inc.php:178
+msgid "Our Menu"
+msgstr ""
+
+#: custom/inc.php:179 custom/inc.php:206 custom/inc.php:233 custom/inc.php:246
+#: custom/inc.php:272
+msgid ""
+"You can write a description of the section here! You can write a description "
+"of the section here!"
+msgstr ""
+
+#: custom/inc.php:191
+msgid "Why Choose Us"
+msgstr ""
+
+#: custom/inc.php:192 custom/inc.php:259 custom/inc.php:285 custom/inc.php:298
+msgid "You can write a description of the section here!"
+msgstr ""
+
+#: custom/inc.php:205
+msgid "Meet Our Chefs"
+msgstr ""
+
+#: custom/inc.php:232
+msgid "Our Gallery"
+msgstr ""
+
+#: custom/inc.php:245
+msgid "Our customers say"
+msgstr ""
+
+#: custom/inc.php:258
+msgid "Featured On"
+msgstr ""
+
+#: custom/inc.php:271
+msgid "Events of The Month"
+msgstr ""
+
+#: custom/inc.php:284 custom/inc.php:297
+msgid "From The Blog"
+msgstr ""
+
+#: custom/inc.php:350 custom/inc.php:362
+msgid "Check it out"
+msgstr ""
+
+#: custom/inc.php:356
+msgid "Downlaod Now"
+msgstr ""
+
+#: custom/inc.php:374
+msgid "Service One"
+msgstr ""
+
+#: custom/inc.php:375 custom/inc.php:383 custom/inc.php:391 custom/inc.php:399
+#: custom/inc.php:407 custom/inc.php:415
+msgid ""
+"Duis sit amet nulla id quam faucibus sagittis. Mauris id tempus tortor. "
+"Mauris nibh purus, maximus non porttitor et, varius non tortor. "
+msgstr ""
+
+#: custom/inc.php:382
+msgid "Service Two"
+msgstr ""
+
+#: custom/inc.php:390
+msgid "Service Three"
+msgstr ""
+
+#: custom/inc.php:398
+msgid "Service Four"
+msgstr ""
+
+#: custom/inc.php:406
+msgid "Service Five"
+msgstr ""
+
+#: custom/inc.php:414
+msgid "Service Six"
+msgstr ""
+
+#: custom/inc.php:459
+msgid "Mark B. McPeters"
+msgstr ""
+
+#: custom/inc.php:460 custom/inc.php:473 custom/inc.php:485 custom/inc.php:499
+msgid "Head Chef"
+msgstr ""
+
+#: custom/inc.php:465
+msgid ""
+"Donec at eui smod nibh, eu bibendum quam. Nullam non gravida purus, nec "
+"eleifsdfidunt nisi. Aguascalientes glum \n"
+"newsbeat unsolved dispensed. Taig apotropaic proadjournment repromulgation "
+"disappointer.Fusce at purus in massa laoreet. Taig apotropaic proadjournment "
+"repromulgation disappointer.Fusce at purus in massa laoreet."
+msgstr ""
+
+#: custom/inc.php:472
+msgid "Joseph Le"
+msgstr ""
+
+#: custom/inc.php:478 custom/inc.php:490 custom/inc.php:504
+msgid ""
+"Donec at eui smod nibh, eu bibendum quam. Nullam non gravida purus, nec "
+"eleifsdfidunt nisi. Aguascalientes glum \n"
+"newsbeat unsolved dispensed. Taig apotropaic proadjournment repromulgation "
+"disappointer.Fusce at purus in massa laoreet.Taig apotropaic proadjournment "
+"repromulgation disappointer.Fusce at purus in massa laoreet."
+msgstr ""
+
+#: custom/inc.php:484
+msgid "Callie T Schmidt"
+msgstr ""
+
+#: custom/inc.php:498
+msgid "Nick J Johnson"
+msgstr ""
+
+#: custom/inc.php:518
+msgid "Years of Experience"
+msgstr ""
+
+#: custom/inc.php:524
+msgid "Special Dishes"
+msgstr ""
+
+#: custom/inc.php:530
+msgid "Cups of coffee"
+msgstr ""
+
+#: custom/inc.php:536
+msgid "happy customers"
+msgstr ""
+
+#: custom/inc.php:546 custom/inc.php:552 custom/inc.php:558 custom/inc.php:564
+#: custom/inc.php:570
+msgid "Project Name"
+msgstr ""
+
+#: custom/inc.php:585
+msgid "Jack"
+msgstr ""
+
+#: custom/inc.php:586 custom/inc.php:595 custom/inc.php:604
+msgid "Web Developer"
+msgstr ""
+
+#: custom/inc.php:587 custom/inc.php:596 custom/inc.php:605
+msgid ""
+"Donec at eui smod nibh, eu bibendum quam. Nullam non gravida purus, nec "
+"eleifsdfidunt nisi. Aguascalientes glum \n"
+"\tnewsbeat unsolved dispensed. Taig apotropaic proadjournment repromulgation "
+"disappointer.Fusce at purus in massa laoreet."
+msgstr ""
+
+#: custom/inc.php:594
+msgid "Kevin Perry"
+msgstr ""
+
+#: custom/inc.php:603
+msgid "David"
+msgstr ""
+
+#: custom/inc.php:618
+msgid "client 1"
+msgstr ""
+
+#: custom/inc.php:625
+msgid "client 2"
+msgstr ""
+
+#: custom/inc.php:632
+msgid "client 3"
+msgstr ""
+
+#: custom/inc.php:639
+msgid "client 4"
+msgstr ""
+
+#: custom/inc.php:646
+msgid "client 5"
+msgstr ""
+
+#: custom/inc.php:652
+msgid "client 6"
+msgstr ""
+
+#: custom/inc.php:663
+msgid "383 Waterview Lane, Las Vegas, US"
+msgstr ""
+
+#: custom/inc.php:668
+msgid "+1 123 456 789"
+msgstr ""
+
+#: custom/inc.php:726
+msgid "View Full Menu"
+msgstr ""
+
+#: custom/inc.php:751
+msgid "View All Gallery"
+msgstr ""
+
+#: custom/inc.php:776 custom/inc.php:800
+msgid "View All Events"
+msgstr ""
+
+#: custom/inc.php:824
+msgid "View The Blog"
+msgstr ""
+
+#: custom/section/homepage-news.php:135 custom/section/homepage-slider.php:146
+#: custom/section/homepage-team.php:160
+#: custom/section/homepage-testimonial.php:105
+msgid "Previous"
+msgstr ""
+
+#: custom/section/homepage-news.php:139 custom/section/homepage-slider.php:150
+#: custom/section/homepage-team.php:164
+#: custom/section/homepage-testimonial.php:109
+msgid "Next"
+msgstr ""
+
+#: custom/section/homepage-slider.php:123
+msgid "Download Now"
+msgstr ""
+
+#: footer.php:12
+msgid "Follow Us On"
+msgstr ""

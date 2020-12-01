@@ -1,0 +1,287 @@
+/*
+Theme Name: Foodie World
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Layouts
+# Media Queries
+	## >= 568px (iPhone 5, 5S, 5C and 5SE : Landscape)
+	## >= 768px (iPad 1, 2, 3, 4, Mini, Air, Pro 9.7" : Portrait)
+	## >= 1024px (iPad 1, 2, 3, 4, Mini, Air, Pro 9.7" : Landscape)
+	## >= 1200px (Kindle Fire HD 8.9", Non-Retina Screens & Retina Screens : Portrait)
+	## >= 1366px (iPad Pro 12.9" : Landscape)
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+
+body {
+	direction: rtl;
+	overflow-x: hidden;
+	unicode-bidi: embed;
+}
+
+/*--------------------------------------------------------------
+# Layouts
+--------------------------------------------------------------*/
+
+.site-branding {
+	margin-right: 0;
+	padding-right: 0;
+	margin-left: auto;
+}
+
+#site-navigation {
+	margin-right: auto;
+}
+
+.main-navigation .dropdown-toggle {
+	left: 0;
+	right: inherit;
+}
+
+.navigation-classic .search-content-wrapper-top {
+	text-align: left;
+}
+
+.main-navigation ul ul a {
+	padding-left: 30px;
+	padding-right: 50px;
+}
+
+.main-navigation .menu-item-has-children > a,
+.main-navigation .page_item_has_children > a {
+	padding-left: 42px;
+	padding-right: 30px;
+}
+
+.main-navigation .menu-item-has-children .menu-item-has-children > a,
+.main-navigation .page_item_has_children .page_item_has_children > a {
+	padding-right: 50px;
+}
+
+.main-navigation ul ul ul a {
+	padding-left: 30px;
+	padding-right: 70px;
+}
+
+.menu-inside-wrapper .menu-social-container {
+	padding-left: 0;
+	padding-right: 18px;
+}
+
+#search-container {
+	clear: both;
+}
+
+.search-submit {
+	border-top-left-radius: 6px;
+	border-bottom-left-radius: 6px;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+#search-container input,
+.widget input[type="search"] {
+	padding: 12px 20px 12px 65px;
+}
+
+#search-container button,
+.widget .search-submit {
+	left: 0;
+	right: inherit;
+}
+
+.search-content-wrapper-top #search-container::before {
+	left: 9px;
+}
+
+.main-navigation ul ul li::before {
+	left: inherit;
+	right: 0;
+	transform: rotate(180deg);
+}
+
+.menu-content-wrapper .entry-price {
+	text-align: left;
+}
+
+th {
+	text-align: right;
+}
+
+ul,
+ol {
+    margin: 0 1.25em 1.75em 0;
+    padding: 0;
+}
+
+blockquote {
+	border: 0 solid #ff6b08;
+	border-right-width: 5px;
+	padding-left: 0;
+	padding-right: 35px;
+}
+
+.comment-metadata a {
+    margin-left: 21px;
+    margin-right: 0;
+}
+
+.tags-links a, .cat-links a {
+    margin-left: 21px;
+    margin-right: 0;
+}
+
+.entry-header .entry-meta > span,
+.custom-header .entry-meta > span {
+	margin-right: 0;
+	margin-left: 14px;
+}
+
+.entry-footer .cat-links:before,
+.entry-footer .tags-links:before,
+.edit-link:before {
+	float: right;
+	margin-right: 0;
+	margin-left: 7px;
+}
+
+.comment-author .avatar {
+    float: right;
+    margin-left: 28px;
+    margin-right: 0;
+}
+
+#cancel-comment-reply-link::before {
+	padding-left: 4px;
+	padding-right: 0;
+}
+
+.comment-content::before {
+    right: 16px;
+}
+
+.testimonials-content-wrapper .hentry:before {
+	left: 0.3828125em;
+	right: inherit;
+}
+
+/*--------------------------------------------------------------
+# Media Queries
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+## >= 480px
+--------------------------------------------------------------*/
+
+@media screen and (min-width: 30em) {
+	.comment-reply-link {
+		left: 0;
+		right: inherit;
+	}
+}
+
+/*--------------------------------------------------------------
+## >= 667px
+--------------------------------------------------------------*/
+
+@media screen and (min-width: 48em) {
+	.hero-content-wrapper .entry-container:not(.full-width) {
+		padding-left: 0;
+		padding-right: 49px;
+		text-align: right;
+	}
+
+	.hero-content-wrapper .featured-content-image {
+		padding: 0;
+	}
+
+	.author-description {
+		padding-left: 0;
+		padding-right: 35px;
+		text-align: right;
+	}
+}
+
+/*--------------------------------------------------------------
+## >= 1024px
+--------------------------------------------------------------*/
+
+@media screen and (min-width: 64em) {
+	body:not(.navigation-classic) .menu-inside-wrapper,
+	.site-header-main .search-content-wrapper-top #search-container {
+		left: 0;
+		right: inherit;
+	}
+
+	body:not(.navigation-classic) .site-branding {
+		margin-left: auto;
+		margin-right: 0;
+	}
+
+	.navigation-classic .main-navigation #primary-menu .menu-item-has-children > a:after,
+	.navigation-classic .main-navigation #primary-menu .page_item_has_children > a:after {
+		right: inherit;
+		left: 21px;
+	}
+
+	.navigation-classic ul.sub-menu,
+	.navigation-classic .main-navigation .children {
+		text-align: right;
+	}
+
+	.navigation-classic .main-navigation ul ul li:hover > ul,
+	.navigation-classic .main-navigation ul ul li.focus > ul {
+	    left: 100%;
+	    right: inherit;
+	}
+
+	.navigation-classic .main-navigation ul ul .menu-item-has-children > a::after,
+	.navigation-classic .main-navigation ul ul .page_item_has_children > a::after {
+	    transform: rotate(270deg);
+	}
+
+	.navigation-classic .main-navigation ul li:hover > ul,
+	.navigation-classic .main-navigation ul li.focus > ul {
+	    left: 0;
+	    right: auto;
+	}
+
+	.navigation-classic .main-navigation .menu-item-has-children > a,
+	.navigation-classic .main-navigation .page_item_has_children > a {
+	    padding-left: 42px;
+	    padding-right: 25px;
+	}
+
+	.navigation-classic .site-header-main .search-content-wrapper-top #search-container {
+		left: 0;
+		right: inherit;
+	}
+
+	.author-description {
+		padding-right: 49px;
+	}
+}
+
+/*--------------------------------------------------------------
+## >= 1200px
+--------------------------------------------------------------*/
+
+@media screen and (min-width: 75em) {
+	.site-description {
+		text-align: right;
+	}
+}
+
