@@ -1,3 +1,3 @@
-#Bicol's Best
+# Bicol's Best
 
-see https://bicolsbest.com/
+Ordering system - see https://bicolsbest.com/
